@@ -10,6 +10,7 @@
   <modules>
     <module>JavaEE-03-SpringMVC</module>
     <module>JavaEE-03-IoC</module>
+    <module>JavaEE-03-AOP</module>
   </modules>
   <packaging>pom</packaging>
 
